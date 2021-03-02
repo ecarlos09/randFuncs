@@ -1,0 +1,15 @@
+{
+  "name": "rand-library",
+  "version": "1.0.0",
+  "description": "A collection of random functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "coverage": "jest --coverage"
+  },
+  "author": "Elwin and Pearl",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^26.6.3"
+  }
+}
